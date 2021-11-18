@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//mfquipa.github.io/mi-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/http//mfquipa.github.io/mi-app/static/js/main.462c6c44.chunk.js",
+    "main.js.map": "/http//mfquipa.github.io/mi-app/static/js/main.462c6c44.chunk.js.map",
+    "runtime-main.js": "/http//mfquipa.github.io/mi-app/static/js/runtime-main.d7ec2ecc.js",
+    "runtime-main.js.map": "/http//mfquipa.github.io/mi-app/static/js/runtime-main.d7ec2ecc.js.map",
+    "static/js/2.12a49280.chunk.js": "/http//mfquipa.github.io/mi-app/static/js/2.12a49280.chunk.js",
+    "static/js/2.12a49280.chunk.js.map": "/http//mfquipa.github.io/mi-app/static/js/2.12a49280.chunk.js.map",
+    "static/js/3.4083cd4a.chunk.js": "/http//mfquipa.github.io/mi-app/static/js/3.4083cd4a.chunk.js",
+    "static/js/3.4083cd4a.chunk.js.map": "/http//mfquipa.github.io/mi-app/static/js/3.4083cd4a.chunk.js.map",
+    "index.html": "/http//mfquipa.github.io/mi-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/http//mfquipa.github.io/mi-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.12a49280.chunk.js.LICENSE.txt": "/http//mfquipa.github.io/mi-app/static/js/2.12a49280.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/http//mfquipa.github.io/mi-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ec2ecc.js",
+    "static/js/2.12a49280.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.462c6c44.chunk.js"
+  ]
+}
